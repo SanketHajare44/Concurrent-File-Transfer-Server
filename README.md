@@ -260,6 +260,18 @@ concurrent-file-transfer-server/
 
 --- -->
 
+## Author
+
+**Sanket Sadashiv Hajare**
+
+GitHub : [Link](https://github.com/SanketHajare44)  
+LinkedIn : [Link](https://www.linkedin.com/in/sankethajare/)
+
+If you found this project useful, please consider giving it a ⭐ on GitHub.
+
+
+---
+
 ## License
 
-This project is released for educational purposes. See [LICENSE](LICENSE) for details.
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
