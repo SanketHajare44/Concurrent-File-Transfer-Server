@@ -238,7 +238,7 @@ concurrent-file-transfer-server/
 
 ---
 
-## Limitations
+<!-- ## Limitations
 
 - File download only; upload not supported.
 - No authentication or access control.
@@ -258,7 +258,7 @@ concurrent-file-transfer-server/
 - [ ] Transfer progress reporting on the client
 - [ ] Structured server logging with timestamps
 
----
+--- -->
 
 ## License
 
