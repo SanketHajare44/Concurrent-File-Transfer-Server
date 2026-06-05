@@ -1,4 +1,4 @@
-# concurrent-file-transfer-server
+# Concurrent-File-Transfer-Server
 
 A process-based concurrent TCP file transfer server implemented in C on Linux. The server handles multiple simultaneous client connections by spawning an independent child process per connection using `fork()`, enabling parallel file downloads over a lightweight custom protocol.
 
