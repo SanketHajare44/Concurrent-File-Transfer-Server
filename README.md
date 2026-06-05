@@ -16,6 +16,7 @@ A process-based concurrent TCP file transfer server implemented in C on Linux. T
 - [Project Structure](#project-structure)
 - [Limitations](#limitations)
 - [Planned Improvements](#planned-improvements)
+- [Author](#author)
 - [License](#license)
 
 ---
